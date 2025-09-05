@@ -150,4 +150,13 @@ footer {
     height: auto;
     margin-right: 1rem;
   }
+  /* Weather box styling */
+.home h3 {
+  background-color: white;
+  color: black;
+  padding: 1rem;
+  border: 1px solid #ccc; 
+  border-radius: 4px;     
+  margin-top: 1rem;
+}
 }
